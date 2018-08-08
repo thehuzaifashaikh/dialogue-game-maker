@@ -1,0 +1,16 @@
+nodes: 4
+*** 1 ***
+	Title: Hello Warrior!
+	Options: (Sup Noob!|2) (Hello Strange voice!|3)
+
+*** 2 ***
+	Title: I don't want to talk to you.
+	Options: (Awww...|0)
+
+*** 3 ***
+	Title: I've got a quest for ya!
+	Options: (I'm ready!|4) (Nah|2)
+
+*** 4 ***
+	Title: Defeat the enemy
+	Options: (Ummm...|0|1) (Can you repeat?|3) (I can't do it...|2)
